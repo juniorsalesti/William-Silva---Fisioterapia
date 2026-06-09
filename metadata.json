@@ -1,0 +1,6 @@
+{
+  "name": "William Silva - Fisioterapia",
+  "description": "Landing page profissional para fisioterapia domiciliar e neurofuncional em Campinas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
